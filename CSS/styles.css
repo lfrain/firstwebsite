@@ -1,0 +1,178 @@
+html {
+	margin-left: 50px;
+	margin-right: 50px
+}
+
+body {
+	font-family: helvetica, sans-serif;
+	font-weight: normal;
+	margin: 0 30px;
+	padding-left: 50px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border-left: 2px solid #d8262e;
+
+}
+header {
+	border-bottom: 1px solid #eee;
+	width: 700px;
+}
+
+header img {
+	margin: 0;
+	padding: 20px 100px 30px 180px;
+	display: block;
+}
+body img {
+	margin: 20px 0 0 0;
+}
+
+h1 {
+	font-family: georgia, times, serif;
+	text-align: center;
+	margin: 20px;
+}
+
+h1 em{
+	font-weight: normal;
+}
+nav ul{
+	text-align: center;
+	margin: 0;
+	background-color: #fff;
+	border: 0;
+}
+
+nav li{
+	font-family: helvetica, sans-serif;
+	font-weight: normal;
+	display: inline;
+	text-align: center;
+	padding-right: 20px;
+	color: #ccc;
+}
+
+nav a:visited,
+nav a:link {
+	text-decoration: none;
+	color: rgb(216,38,46);
+}
+
+nav a:hover {
+	color: rgb(123,48,62);
+}
+
+
+
+h2 {
+	font-family: georgia, serif;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
+p {
+	font-family: helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	width: 700px;
+	line-height: 1.5;
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+	font-family: georgia, serif;
+	font-style: italic;
+	font-weight: normal;
+	color: #fff;
+	font-size: 16px;
+	background-color: rgb(216,38,46);
+	padding: 15px 0 15px 0;
+	margin: 0;
+	width: 700px;
+	text-indent: 40px;
+}
+
+ul {
+	background-color: #eee;
+	padding: 20px 0 20px 0;
+	width: 698px;
+	margin: 0 0 20px 0;
+	list-style: none;
+	border-top: 0;
+	border-right: 1px solid #CCC;
+	border-bottom: 1px solid #CCC;
+	border-left: 1px solid #CCC;
+}
+
+ul li {
+	color: #444;
+	line-height: 1.5;
+	font-size: 14px;
+	font-weight: normal;
+	text-indent: 40px;
+	text-decoration: none;
+}
+
+ol li {
+	color: #444;
+	background: #fff;
+	font-family: helvetica, sans-serif;
+	text-decoration: none;
+}
+
+#container {
+	width: 900px;
+}
+
+#map-canvas {
+	width: 400px;
+    height: 300px;
+    background-color: #CCC;
+	margin: 30px 0 30px 0; 
+	border: 2px solid #ddd;
+	padding: 0;
+	position: relative;
+}
+
+#location {
+	background-color: #fff;
+	width: 296px;
+}
+h4 {
+	font-family: georgia, serif;
+	font-size: 20px;
+}
+h5 {
+	font-family: helvetica, sans-serif;
+	line-height: 1.5;
+
+}
+
+footer ul{
+	height: 100px;
+	width: 100%;
+	background-color: #d8262e;
+	border: 0;
+	margin: 40px 0 0 0 ;
+}
+
+footer li {
+	display: inline;
+	padding-left: 40px;
+	padding-right: 10px;
+	padding-top: 10px;
+
+}
+
+footer em {
+	text-align: left;
+	color: #fff;
+	font-family: georgia, serif;
+	padding-top: 40px;
+	padding-left: 30px;
+	margin-top: 0px;
+	padding-bottom: 40px;
+	font-size: 18px;
+}
